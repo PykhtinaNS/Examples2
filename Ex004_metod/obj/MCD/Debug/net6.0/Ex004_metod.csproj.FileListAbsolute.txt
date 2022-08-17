@@ -1,0 +1,15 @@
+C:\Users\Nataly\Desktop\Моя учеба\C#\Examples2\Ex004_metod\obj\MCD\Debug\net6.0\Ex004_metod.csproj.AssemblyReference.cache
+C:\Users\Nataly\Desktop\Моя учеба\C#\Examples2\Ex004_metod\obj\MCD\Debug\net6.0\Ex004_metod.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nataly\Desktop\Моя учеба\C#\Examples2\Ex004_metod\obj\MCD\Debug\net6.0\Ex004_metod.AssemblyInfoInputs.cache
+C:\Users\Nataly\Desktop\Моя учеба\C#\Examples2\Ex004_metod\obj\MCD\Debug\net6.0\Ex004_metod.AssemblyInfo.cs
+C:\Users\Nataly\Desktop\Моя учеба\C#\Examples2\Ex004_metod\obj\MCD\Debug\net6.0\Ex004_metod.csproj.CoreCompileInputs.cache
+C:\Users\Nataly\Desktop\Моя учеба\C#\Examples2\Ex004_metod\bin\MCD\Debug\net6.0\Ex004_metod.exe
+C:\Users\Nataly\Desktop\Моя учеба\C#\Examples2\Ex004_metod\bin\MCD\Debug\net6.0\Ex004_metod.deps.json
+C:\Users\Nataly\Desktop\Моя учеба\C#\Examples2\Ex004_metod\bin\MCD\Debug\net6.0\Ex004_metod.runtimeconfig.json
+C:\Users\Nataly\Desktop\Моя учеба\C#\Examples2\Ex004_metod\bin\MCD\Debug\net6.0\Ex004_metod.dll
+C:\Users\Nataly\Desktop\Моя учеба\C#\Examples2\Ex004_metod\bin\MCD\Debug\net6.0\Ex004_metod.pdb
+C:\Users\Nataly\Desktop\Моя учеба\C#\Examples2\Ex004_metod\obj\MCD\Debug\net6.0\Ex004_metod.dll
+C:\Users\Nataly\Desktop\Моя учеба\C#\Examples2\Ex004_metod\obj\MCD\Debug\net6.0\refint\Ex004_metod.dll
+C:\Users\Nataly\Desktop\Моя учеба\C#\Examples2\Ex004_metod\obj\MCD\Debug\net6.0\Ex004_metod.pdb
+C:\Users\Nataly\Desktop\Моя учеба\C#\Examples2\Ex004_metod\obj\MCD\Debug\net6.0\Ex004_metod.genruntimeconfig.cache
+C:\Users\Nataly\Desktop\Моя учеба\C#\Examples2\Ex004_metod\obj\MCD\Debug\net6.0\ref\Ex004_metod.dll
