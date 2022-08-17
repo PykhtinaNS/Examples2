@@ -1,0 +1,15 @@
+C:\Users\Nataly\Desktop\Моя учеба\C#\Examples2\Ex002_array\bin\MCD\Debug\net6.0\Ex002_array.exe
+C:\Users\Nataly\Desktop\Моя учеба\C#\Examples2\Ex002_array\bin\MCD\Debug\net6.0\Ex002_array.deps.json
+C:\Users\Nataly\Desktop\Моя учеба\C#\Examples2\Ex002_array\bin\MCD\Debug\net6.0\Ex002_array.runtimeconfig.json
+C:\Users\Nataly\Desktop\Моя учеба\C#\Examples2\Ex002_array\bin\MCD\Debug\net6.0\Ex002_array.dll
+C:\Users\Nataly\Desktop\Моя учеба\C#\Examples2\Ex002_array\bin\MCD\Debug\net6.0\Ex002_array.pdb
+C:\Users\Nataly\Desktop\Моя учеба\C#\Examples2\Ex002_array\obj\MCD\Debug\net6.0\Ex002_array.csproj.AssemblyReference.cache
+C:\Users\Nataly\Desktop\Моя учеба\C#\Examples2\Ex002_array\obj\MCD\Debug\net6.0\Ex002_array.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nataly\Desktop\Моя учеба\C#\Examples2\Ex002_array\obj\MCD\Debug\net6.0\Ex002_array.AssemblyInfoInputs.cache
+C:\Users\Nataly\Desktop\Моя учеба\C#\Examples2\Ex002_array\obj\MCD\Debug\net6.0\Ex002_array.AssemblyInfo.cs
+C:\Users\Nataly\Desktop\Моя учеба\C#\Examples2\Ex002_array\obj\MCD\Debug\net6.0\Ex002_array.csproj.CoreCompileInputs.cache
+C:\Users\Nataly\Desktop\Моя учеба\C#\Examples2\Ex002_array\obj\MCD\Debug\net6.0\Ex002_array.dll
+C:\Users\Nataly\Desktop\Моя учеба\C#\Examples2\Ex002_array\obj\MCD\Debug\net6.0\refint\Ex002_array.dll
+C:\Users\Nataly\Desktop\Моя учеба\C#\Examples2\Ex002_array\obj\MCD\Debug\net6.0\Ex002_array.pdb
+C:\Users\Nataly\Desktop\Моя учеба\C#\Examples2\Ex002_array\obj\MCD\Debug\net6.0\Ex002_array.genruntimeconfig.cache
+C:\Users\Nataly\Desktop\Моя учеба\C#\Examples2\Ex002_array\obj\MCD\Debug\net6.0\ref\Ex002_array.dll
